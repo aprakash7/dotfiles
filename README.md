@@ -1,2 +1,2 @@
-# config-zshrc
-My .zshrc config 
+# dotfiles
+dotfiles
